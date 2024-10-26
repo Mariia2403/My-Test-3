@@ -1,0 +1,7 @@
+D:\Visual Studio (2)\2 курс\ООП\Новая папка\ConsoleApp1 — копия\проба\bin\Debug\проба.exe.config
+D:\Visual Studio (2)\2 курс\ООП\Новая папка\ConsoleApp1 — копия\проба\bin\Debug\проба.exe
+D:\Visual Studio (2)\2 курс\ООП\Новая папка\ConsoleApp1 — копия\проба\bin\Debug\проба.pdb
+D:\Visual Studio (2)\2 курс\ООП\Новая папка\ConsoleApp1 — копия\проба\obj\Debug\проба.csproj.AssemblyReference.cache
+D:\Visual Studio (2)\2 курс\ООП\Новая папка\ConsoleApp1 — копия\проба\obj\Debug\проба.csproj.CoreCompileInputs.cache
+D:\Visual Studio (2)\2 курс\ООП\Новая папка\ConsoleApp1 — копия\проба\obj\Debug\проба.exe
+D:\Visual Studio (2)\2 курс\ООП\Новая папка\ConsoleApp1 — копия\проба\obj\Debug\проба.pdb
